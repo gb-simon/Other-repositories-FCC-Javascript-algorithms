@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+}
+
+.purple-square-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.purple-square {
+  background-color: rgb(207, 129, 56);
+  width: 300px;
+  height: 210px;
+}
+
+body{
+    background-color: dodgerblue;
+    height: 100vh;
+    font-family: 'Vesper Libre', serif;
+    position: absolute;
+    left: 50%;
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    font-size: 2vh;
+    transform: translate(-50%, -50%);
+}
+
+.first{
+    text-align: center;
+    font-size: 100%;
+}   
