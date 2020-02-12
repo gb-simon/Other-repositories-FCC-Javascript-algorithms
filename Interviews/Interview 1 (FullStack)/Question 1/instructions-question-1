@@ -1,0 +1,3 @@
+Question 1 - Front-end
+
+Create a webpage that allows the user to type in two numbers (numRows and numCols) and prints an HTML table containing the numbers from 1...numRows*numCols in a winding pattern: go down the first column, then up the second column, then down the third column, etc. For example, if numRows=4 and numCols=5, the output would be:
